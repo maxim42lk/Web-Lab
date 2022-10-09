@@ -1,0 +1,28 @@
+    body{
+        background: url(8.png);
+    }
+
+    .text1 {
+        text-align: center;
+        color: #934f9dd8;
+        font-size:220%;
+        font-weight:bold;
+    }
+
+    .text2 {
+        color: #ffffffbc;
+        font-size:180%;
+        text-align:justify;
+        display:inline-block;
+        padding:10px;
+    }
+
+    .text3 {
+        color: #ffffffbc;
+        font-size:180%;
+        font-weight:bold;
+        margin-left: 80px;
+        margin-right: 80px;
+        text-align:justify;
+
+     }
